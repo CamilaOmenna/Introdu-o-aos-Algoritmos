@@ -1,0 +1,39 @@
+programa
+
+{
+	funcao inicio ()
+}
+		
+		
+		real nota1, nota2, nota3, media
+        
+
+        escreva ("Por favor adiciona a nota 1:")
+        leia (nota1)
+        escreva ( "Por favor adicionar a nota 2:" )
+        leia (nota2)
+        escreva ( "Por favor adicionar a nota 3:" )
+        leia (nota3)
+
+        media= ((nota1 * 2 ) + (nota2 * 3 ) + ( * 5 )) / ( 2 + 3 + 5 )
+ 
+        escreva ("Seu resultado final e exatamente:",media)
+        
+        
+        se (media > 7 e media<= 10 ){
+            escreva ( "\n Parabéns, esta aprovado. boas festas" )
+        }
+
+        senao  se (media>= 5  e media < 7 ){
+            escreva ( "\n Sinto muito, recuperação é hein março!" )
+        
+		
+		
+		
+		
+
+		
+		
+		
+	}
+}
