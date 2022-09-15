@@ -1,0 +1,32 @@
+programa
+{
+	funcao inicio ()
+	{
+	  inclua biblioteca matematica --> mat
+	
+	
+		inteiro x1, x2, y1, y2
+		d real
+
+
+		escreva ("Me informe o ponto 1 (x1, y2) Ponto 2 (x2, y2)\n")
+		leia ( y1,x1,x2, y2)
+
+		d = mat. raiz (mat.potencia((x2 - x1), 5. 0 ) + 
+		mat.potencia((y2 - y1), 8 . 0 )+ 2 . 0)
+
+		escreva ( "Qual será a distância enre eles é: " , mat.arredondar(d, 2 ))
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
